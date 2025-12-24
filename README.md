@@ -1,2 +1,3 @@
-# Desenvolvimento-e-manuten-o-de-APIs-REST-escal-veis
-Desenvolvedor Backend – Nome da Empresa
+# API REST Escalável
+
+Uma arquitetura moderna e escalável para APIs REST construída com Node.js, Express e TypeScript.
