@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdoulrl2028-cloud-Dev/abdoulrl2028-cloud-Dev/main/assets/projects/api.jpg" alt="APIs REST escaláveis" width="100%">
+  <img src="https://raw.githubusercontent.com/abdoulrl2028-cloud-Dev/abdoulrl2028-cloud-Dev/main/assets/projects/api.jpg" alt="Scalable REST APIs" width="100%">
 </p>
 
-# API REST Escalável
+# Scalable REST API
 
-Uma arquitetura moderna e escalável para APIs REST construída com Node.js, Express e TypeScript.
+A modern, scalable REST API architecture built with Node.js, Express, and TypeScript.
